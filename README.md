@@ -5,8 +5,8 @@
 - ⚡ Fun fact: I'm bass player.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasIdalino&count_private=True&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasIdalino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasIdalino&count_private=True&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasIdalino&layout=compact)](https://github.com/LucasIdalino/github-readme-stats)
 
 ##
 
