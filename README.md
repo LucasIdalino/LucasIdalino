@@ -1,8 +1,12 @@
-### Programador/Desenvolvedor Backend
+# Lucas Idalino
+### Desenvolvedor Backend
 
-- 🪪 Current Language: Python 
-- 💬 Ask me about bass, music and audio-visual.
+- :pushpin: Sou de João Pessoa, Paraíba, Brasil.
+- :mortar_board: Sou formado em diversos **Cursos Online** (certificados), **Documentações**, **Pesquisas** e muita **Prática** como um bom dev deve ser.
+- :open_file_folder: Meus [projetos](https://github.com/stars/LucasIdalino/lists/meus-projetos)
 - ⚡ Fun fact: I'm bass player.
+- :neckbeard: Vamos trocar conhecimento sobre programação.
+- :alien: Uma mente sedenta por conhecimento.
 
 
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasIdalino&count_private=True&show_icons=true&theme=tokyonight)
@@ -19,5 +23,4 @@
 ##
 
 [![icone](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-idalino-4197391bb/)
-[![icone](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](lucasidalino14@hotmail.com)
 [![icone](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/LucasIdalino)
