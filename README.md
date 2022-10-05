@@ -2,7 +2,7 @@
 ### Desenvolvedor Backend
 
 - :pushpin: Sou de João Pessoa, Paraíba, Brasil.
-- :mortar_board: Sou formado em diversos **Cursos Online**, **Documentações**, **Pesquisas** e muita **Prática** como um bom dev deve ser.
+- :mortar_board: Sou formado em diversos [**Cursos Online**](https://github.com/LucasIdalino/Certificados), **Documentações**, **Pesquisas** e muita **Prática** como um bom dev deve ser.
 - :open_file_folder: Meus [projetos](https://github.com/stars/LucasIdalino/lists/meus-projetos)
 - ⚡ Fun fact: I'm bass player.
 - :neckbeard: Vamos trocar conhecimento sobre programação.
