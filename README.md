@@ -2,6 +2,7 @@
 ### Desenvolvedor Backend
 
 - :pushpin: Sou de João Pessoa, Paraíba, Brasil.
+- 🎓 Formado em **Radialismo** pela **UFPB** - Universidade Federal da Paraíba
 - :mortar_board: Sou formado em diversos [**Cursos Online**](https://github.com/LucasIdalino/Certificados), **Documentações**, **Pesquisas** e muita **Prática** como um bom dev deve ser.
 - :open_file_folder: Meus [projetos](https://github.com/stars/LucasIdalino/lists/meus-projetos)
 - ⚡ Fun fact: I'm bass player.
