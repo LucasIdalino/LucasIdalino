@@ -17,6 +17,8 @@
 ![icone](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![icone](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=black)
 ![icone](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![icone](https://img.shields.io/badge/HTML5-FF6B26?style=for-the-badge&logo=html5&logoColor=white)
+![icone](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## General Statistics / Estatísticas Gerais
 
