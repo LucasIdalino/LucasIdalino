@@ -10,7 +10,7 @@
 - :alien: Uma mente sedenta por conhecimento.
 
 
-## Habilidades / Skils
+## Habilidades / Skills
 
 ![icone](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![icone](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
